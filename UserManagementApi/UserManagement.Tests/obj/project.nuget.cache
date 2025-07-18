@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A4nQCE9qHpc=",
+  "dgSpecHash": "8+nqmGW0FcE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SipheloMgquba\\RiderProjects\\UserManagementApi\\UserManagement.Tests\\UserManagement.Tests.csproj",
+  "projectFilePath": "C:\\Users\\SipheloMgquba\\Desktop\\projects\\UserManagementApi\\UserManagementApi\\UserManagement.Tests\\UserManagement.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SipheloMgquba\\.nuget\\packages\\bogus\\35.6.3\\bogus.35.6.3.nupkg.sha512",
     "C:\\Users\\SipheloMgquba\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

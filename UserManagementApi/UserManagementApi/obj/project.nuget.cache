@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sf3vSHGnuMk=",
+  "dgSpecHash": "q522evjyQp0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SipheloMgquba\\RiderProjects\\UserManagementApi\\UserManagementApi\\UserManagementApi.csproj",
+  "projectFilePath": "C:\\Users\\SipheloMgquba\\Desktop\\projects\\UserManagementApi\\UserManagementApi\\UserManagementApi\\UserManagementApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SipheloMgquba\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\SipheloMgquba\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

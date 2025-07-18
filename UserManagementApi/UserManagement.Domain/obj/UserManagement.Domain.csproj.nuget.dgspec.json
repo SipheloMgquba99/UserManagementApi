@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SipheloMgquba\\RiderProjects\\UserManagementApi\\UserManagement.Domain\\UserManagement.Domain.csproj": {}
+    "C:\\Users\\SipheloMgquba\\Desktop\\projects\\UserManagementApi\\UserManagementApi\\UserManagement.Domain\\UserManagement.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SipheloMgquba\\RiderProjects\\UserManagementApi\\UserManagement.Domain\\UserManagement.Domain.csproj": {
+    "C:\\Users\\SipheloMgquba\\Desktop\\projects\\UserManagementApi\\UserManagementApi\\UserManagement.Domain\\UserManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SipheloMgquba\\RiderProjects\\UserManagementApi\\UserManagement.Domain\\UserManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\SipheloMgquba\\Desktop\\projects\\UserManagementApi\\UserManagementApi\\UserManagement.Domain\\UserManagement.Domain.csproj",
         "projectName": "UserManagement.Domain",
-        "projectPath": "C:\\Users\\SipheloMgquba\\RiderProjects\\UserManagementApi\\UserManagement.Domain\\UserManagement.Domain.csproj",
+        "projectPath": "C:\\Users\\SipheloMgquba\\Desktop\\projects\\UserManagementApi\\UserManagementApi\\UserManagement.Domain\\UserManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\SipheloMgquba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SipheloMgquba\\RiderProjects\\UserManagementApi\\UserManagement.Domain\\obj\\",
+        "outputPath": "C:\\Users\\SipheloMgquba\\Desktop\\projects\\UserManagementApi\\UserManagementApi\\UserManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

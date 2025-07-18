@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1neFjDajfY8=",
+  "dgSpecHash": "/FJWUxa1OKs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SipheloMgquba\\RiderProjects\\UserManagementApi\\UserManagement.Domain\\UserManagement.Domain.csproj",
+  "projectFilePath": "C:\\Users\\SipheloMgquba\\Desktop\\projects\\UserManagementApi\\UserManagementApi\\UserManagement.Domain\\UserManagement.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SipheloMgquba\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.18\\microsoft.entityframeworkcore.8.0.18.nupkg.sha512",
     "C:\\Users\\SipheloMgquba\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.18\\microsoft.entityframeworkcore.abstractions.8.0.18.nupkg.sha512",
