@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "UserManagementApi.Controllers.UserManagementController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/UserManagement/change-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "UserManagement.Application.Dtos.ChangePasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserManagementApi.Controllers.UserManagementController",
+    "Method": "LoginUserAsync",
+    "RelativePath": "api/UserManagement/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "UserManagement.Application.Dtos.LoginUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserManagementApi.Controllers.UserManagementController",
+    "Method": "Logout",
+    "RelativePath": "api/UserManagement/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserManagementApi.Controllers.UserManagementController",
+    "Method": "RegisterUserAsync",
+    "RelativePath": "api/UserManagement/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerUserDto",
+        "Type": "UserManagement.Application.Dtos.RegisterUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserManagementApi.Controllers.UserManagementController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/UserManagement/reset-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "UserManagement.Application.Dtos.ResetPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
